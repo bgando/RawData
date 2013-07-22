@@ -1,0 +1,1 @@
+{ "options" : { "create" : "annotations", "capped" : { "$undefined" : true }, "size" : { "$undefined" : true } }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "open_shakespeare.annotations", "name" : "_id_" } ] }
